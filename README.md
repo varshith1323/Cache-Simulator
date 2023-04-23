@@ -9,4 +9,4 @@ Instructions to run the code:
 <li>Enter the data and results will be displayed in the terminal</li>
 </ol>
 
-->IMT2021066_IMT2021067_IMT2021078_Report.pdf contains detalied overview of results and observation
+(Report.pdf contains detalied overview of results and observation)
